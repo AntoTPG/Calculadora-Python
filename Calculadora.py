@@ -1,4 +1,5 @@
 #Calcuradora
+#Programado por ANTONIO REQUENA QUESADA - 2/01/2023
 print("CALCULADORA \n")
 user_name = input("Bienvenido a la calculadora, ingrese su nombre: ")
 print(user_name,"puede usar la calculadora")
