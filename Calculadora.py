@@ -31,27 +31,3 @@ elif operacion == "division" or "división":
     print("El resto de la división es: ",resto)
 else:
     print("Operación no Válida")
-
-<script type="module">
-  // Import the functions you need from the SDKs you need
-  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-app.js";
-  import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-analytics.js";
-  // TODO: Add SDKs for Firebase products that you want to use
-  // https://firebase.google.com/docs/web/setup#available-libraries
-
-  // Your web app's Firebase configuration
-  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-  const firebaseConfig = {
-    apiKey: "AIzaSyB3tLo4gKC3k1n83tBZdAEkVJhkVtq4vls",
-    authDomain: "python-prueba-9ea01.firebaseapp.com",
-    projectId: "python-prueba-9ea01",
-    storageBucket: "python-prueba-9ea01.appspot.com",
-    messagingSenderId: "44936947801",
-    appId: "1:44936947801:web:8cef008e941a4c2add6948",
-    measurementId: "G-MX6J1B8W1K"
-  };
-
-  // Initialize Firebase
-  const app = initializeApp(firebaseConfig);
-  const analytics = getAnalytics(app);
-</script>
